@@ -1,0 +1,5 @@
+typesafe-sdk>=0.7
+openai
+pandas
+numpy
+matplotlib
